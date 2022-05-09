@@ -6,3 +6,6 @@ const name = () => {
 const add = (x,y) => {
     return x + y   //// pretty good enough now.. just testing with someone
 }
+
+const sub = (x,y) => {
+    return x - y
